@@ -2,7 +2,7 @@
 
 I didn't host this website because the hosting is paid of strapi backend that's why I am sharing the code.
 
-**Technology Used**
+**Technologies Used**
 1. React js
 2. SCSS
 3. Strapi(For Backend)
